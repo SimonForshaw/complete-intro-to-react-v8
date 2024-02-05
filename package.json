@@ -22,5 +22,8 @@
   },
   "devDependencies": {
     "convert-array-to-csv": "^2.0.0"
+  },
+  "volta": {
+    "node": "20.11.0"
   }
 }
